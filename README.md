@@ -1,0 +1,1 @@
+FOS (Flat OS) — an educational operating system built in C as part of a university OS course. Implements kernel heap allocation (Next Fit), CPU scheduling (MLFQ), page fault handling with Nth Chance Clock page replacement, and virtual memory management on x86 using Intel paging.
